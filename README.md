@@ -7,4 +7,5 @@ Human action recognition is an important research area in the field of computer 
 
 The majority of existing frameworks for action recognition consist of three main steps: feature extraction, dictionary learning to form a representation for a video based on the extracted features, and finally classification of th video using the representation. These features are supposed to encode the information which is useful for recognition of the action in a numerical form such as a vector. Then, the extracted features are used for forming a representation of a video, which captures the actions that occur therein. Such representation may be as simple as a histogram of most frequent motions or a semantically meaningful model such as action poses. Automated methods for the sports video understanding can help us in the localization of the salientactions of a game. Many recent methods exits to solve generic human activity localization in the video focusing on sport. However, detecting soccer actions is a difficult task due to sparsity of the events in the video.
 
-
+## Here are the some screenshort given for the demostration purpose
+![](Frame1.png)
