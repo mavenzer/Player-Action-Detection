@@ -15,3 +15,6 @@ The majority of existing frameworks for action recognition consist of three main
 ![](Frame5.png)
 ![](Frame6.png)
 
+# I have combined some of the images
+![](VDO_Frame-min.png)
+![](VDO_Frame.png)
